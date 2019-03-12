@@ -1,10 +1,11 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PathFollow : MonoBehaviour
-{
-      public Path path;
+public class FollowPath : SteeringBehaviour {
+
+    public Path path;
 
     Vector3 nextWaypoint;
 
