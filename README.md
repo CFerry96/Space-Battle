@@ -18,5 +18,5 @@ How It Works
 Using several different behaviours the sovereign ships willl pursue the marino while attempting to avoid the asteroids . The marinoo will follow a premade path through the belt. The asteroids themselves are suspended in space but will rotate in random directions slowly and will break if a collision occurs with a ship. The Cameras change with timed co-routines and in the end an all black UI image will fade in by changing the alpha value.
 
 
-[![YouTube](http://img.youtube.com/2X6mmLiRNwU/0.jpg)](https://youtube.com/2X6mmLiRNwU)
+[![YouTube](Space%20Battle.png)](https://youtube.com/2X6mmLiRNwU)
 Youtube Video Link - https://youtu.be/2X6mmLiRNwU
