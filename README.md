@@ -13,4 +13,7 @@ The Sovereign ships are small amd quick and the marino will need to navigate the
 Upon leaving the asteroid belt the marino makes a manouver to evade some of the ships who willl then collide with eachother and be destroyed.
 ![](Space%20Battle/Assets/Photos/Story%20board%204.gif)
 
-Using several different behaviours the sovereign ships willl pursue the marino while attempting to avoid the asteroids. Should they collide there will be an explosion destroying the ship. The marinoo will follow a premade path through the belt. The asteroids themselves are suspended in space but will rotate in random directions slowly and will break if a collision occurs with a ship.
+
+How It Works
+Using several different behaviours the sovereign ships willl pursue the marino while attempting to avoid the asteroids . The marinoo will follow a premade path through the belt. The asteroids themselves are suspended in space but will rotate in random directions slowly and will break if a collision occurs with a ship. The Cameras change with timed co-routines and in the end an all black UI image will fade in by changing the alpha value.
+
